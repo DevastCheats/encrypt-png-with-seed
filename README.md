@@ -2,6 +2,4 @@
 
 Ниже показано видео демонстрации проекта:
 
-<video controls width="640" height="360">
-  <source src="Guide.mp4" type="video/mp4">
-</video>
+https://raw.githubusercontent.com/DevastCheats/encrypt-png-with-seed/refs/heads/main/Guide.mp4
